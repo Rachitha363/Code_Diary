@@ -14,7 +14,8 @@ This project helps me improve my problem-solving skills consistently.
 
 | Day | Problem | File |
 |-----|----------|------|
-| 1   | Reverse a String | [Day_01_Reverse_a_string.java](Day_01_Reverse_a_string.java) |
+| 1   | Reverse a String | [Day_01_Reverse_a_string.java] |
+| 1   | Palindrome Check | [Day_02_Palindrome_Check.java] |
 
 ---
 
