@@ -17,6 +17,7 @@ This project helps me improve my problem-solving skills consistently.
 | 1   | Reverse a String | [Day_01_Reverse_a_string.java] |
 | 2   | Palindrome Check | [Day_02_Palindrome_Check.java] |
 | 3   | Factorial of a Number | [Day_03_Factorial.java] |
+| 4   | Fibonacci Series | [Day_04_Fibonacci.java] |
 
 ---
 
