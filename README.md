@@ -18,7 +18,7 @@ This project helps me improve my problem-solving skills consistently.
 | 2   | Palindrome Check | [Day_02_Palindrome_Check.java] |
 | 3   | Factorial of a Number | [Day_03_Factorial.java] |
 | 4   | Fibonacci Series | [Day_04_Fibonacci.java] |
-
+| 5   | Prime Number Validation | [Day_05_PrimeNumber.java] |
 ---
 
 ## 📌 Notes
